@@ -1,6 +1,6 @@
 # Start data engineering
 
-# Course Outline: Data Engineering
+# Outline: Data Engineering
 
 ## Chapter 1: Introduction to Data Engineering
 - Overview of data engineering and its role in modern businesses
